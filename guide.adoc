@@ -1,0 +1,6 @@
+= Guide
+
+Test file for the JA+ GitHub App connection. It is in a **public** repository: JA+ must render it without the App,
+exactly as today. The section below comes from `part.adoc` through an include.
+
+include::part.adoc[]
